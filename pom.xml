@@ -3,7 +3,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>in.mpcechno</groupId>
 	<artifactId>sample-app</artifactId>
-	<packaging>war</pamyapckaging>
+	<packaging>war</packaging>
 	<version>1.0.44</version>
 	<name>my-app</name>
 	<url>http://maven.apache.org</url>
