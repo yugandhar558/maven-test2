@@ -52,8 +52,8 @@
             <version>3.6.1</version>
 	    <configuration>
 		<failOnMissingWebXml>false</failOnMissingWebXml>
-		<maven.compiler.source>1.6</maven.compiler.source>
-                <maven.compiler.target>1.6</maven.compiler.target>    
+		<source>1.6</source>
+                <target>1.6</target>    
             </configuration>
         </plugin>
 	<plugin>
