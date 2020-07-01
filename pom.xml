@@ -51,9 +51,7 @@
             <artifactId>maven-compiler-plugin</artifactId>
             <version>3.6.1</version>
 	    <configuration>
-		<failOnMissingWebXml>false</failOnMissingWebXml>    
-                <source>1.7</source>
-                <target>1.7</target>   
+		<failOnMissingWebXml>false</failOnMissingWebXml>       
             </configuration>
         </plugin>
 	<plugin>
